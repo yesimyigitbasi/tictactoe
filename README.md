@@ -1,4 +1,4 @@
-# tictactoe
+# Solving tictactoe with A* algorithm and Machine Learning
  
 This project aims to determine the best possible move for the player in a given state of the tic-tac-toe board. A* will be used as a traditional AI algorithm, and the random forest algorithm will be used to form the machine learning model. This report aims to evaluate the performances of A* and a machine learning model in finding the shortest path and compare their implementations and results.
 
